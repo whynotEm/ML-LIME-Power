@@ -87,7 +87,7 @@ LIME helps to understand **why** a model made a certain prediction for a single 
 
 This project uses the following Kaggle dataset:
 
-📍 [Energy Consumption, Generation, Prices and Weather]([https://www.kaggle.com/datasets/yuanchunhong/energy-consumption-generation-prices-and-weather](https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather))
+📍 [Energy Consumption, Generation, Prices and Weather](https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather)
 
 ---
 
