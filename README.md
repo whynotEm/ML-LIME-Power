@@ -61,11 +61,11 @@ This project focuses on **forecasting electricity prices** using multiple machin
 
 - **Prediction vs Actual (First 100 Points)**
 
-  ![Line](lineplot.png)
+  ![Line](line.png)
 
 - **Residual Distribution**
 
-  ![Residual](residuals.png)
+  ![Residual](residual.png)
 
 - **Feature Correlation Heatmap**
 
