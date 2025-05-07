@@ -69,9 +69,9 @@ This project focuses on **forecasting electricity prices** using multiple machin
 
 - **Feature Correlation Heatmap**
 
-  ![Heatmap](heatmap.png)
+  ![Heatmap](heatmap_2.png)
 
-> *(Make sure to place your plot images in an `assets/` folder in the repository root.)*
+>
 
 ---
 
