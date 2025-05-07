@@ -57,19 +57,19 @@ This project focuses on **forecasting electricity prices** using multiple machin
 
 - **Actual vs Predicted Prices**
 
-  ![Scatter](assets/scatter.png)
+  ![Scatter](scatter.png)
 
 - **Prediction vs Actual (First 100 Points)**
 
-  ![Line](assets/lineplot.png)
+  ![Line](lineplot.png)
 
 - **Residual Distribution**
 
-  ![Residual](assets/residuals.png)
+  ![Residual](residuals.png)
 
 - **Feature Correlation Heatmap**
 
-  ![Heatmap](assets/heatmap.png)
+  ![Heatmap](heatmap.png)
 
 > *(Make sure to place your plot images in an `assets/` folder in the repository root.)*
 
