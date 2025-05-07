@@ -79,7 +79,7 @@ This project focuses on **forecasting electricity prices** using multiple machin
 
 LIME helps to understand **why** a model made a certain prediction for a single test point. Example output:
 
-![LIME](assets/lime_example.png)
+![LIME](/lime.png)
 
 ---
 
